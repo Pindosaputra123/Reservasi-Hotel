@@ -36,14 +36,14 @@ Sistem Booking Hotel adalah sebuah program berbasis C++ yang memungkinkan penggu
 
 ## Cara Menggunakan
 1. Clone repositori ini.
-2. Buka file `main.cpp` di editor C++ favorit Anda.
+2. Buka file `ReservasiHotel.cpp` di editor C++ favorit Anda.
 3. Kompilasi program menggunakan compiler seperti `g++`.
    ```bash
-   g++ main.cpp -o SistemBookingHotel
+   g++ main.cpp -o ReservasuHotel
    ```
 4. Jalankan file eksekusi yang dihasilkan.
    ```bash
-   ./SistemBookingHotel
+   ./ReservasiHotel
    ```
 
 ## Prasyarat
